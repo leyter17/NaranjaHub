@@ -1,0 +1,8 @@
+#!/bin/sh
+# AppRun de la AppImage de NaranjaHub.
+# Copyright (C) 2026 Leyter Vázquez. V — SPDX-License-Identifier: GPL-3.0-only
+# La aplicación es autónoma: no necesita FUSE ni aplicaciones externas.
+APPDIR="$(dirname "$(readlink -f "$0")")"
+export APPDIR
+export PATH="$APPDIR/usr/bin:$PATH"
+exec "$APPDIR/usr/bin/naranjahub" "$@"

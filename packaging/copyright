@@ -1,0 +1,11 @@
+Format: https://www.gnu.org/licenses/gpl-3.0.txt
+Upstream-Name: NaranjaHub
+Source: https://www.gnu.org/licenses/gpl-3.0.html
+
+Files: *
+Copyright: 2026 Leyter Vázquez. V
+License: GPL-3.0-only
+ NaranjaHub se distribuye bajo la GNU General Public License v3.
+ El texto completo de la licencia está disponible en
+ /usr/share/doc/naranjahub/LICENSE y en
+ https://www.gnu.org/licenses/gpl-3.0.html

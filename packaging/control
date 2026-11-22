@@ -1,0 +1,15 @@
+Package: naranjahub
+Version: @VERSION@
+Section: utils
+Priority: optional
+Architecture: @ARCH@
+Installed-Size: @INSTALLED_SIZE@
+Maintainer: Leyter Vázquez. V <naranjahub@localhost>
+Description: Administrador de AppImages simple y profesional para Linux
+ NaranjaHub organiza, integra y actualiza aplicaciones AppImage en
+ GNOME, KDE Plasma, COSMIC y XFCE. Incluye biblioteca de aplicaciones,
+ integración en el menú con iconos automáticos, comprobación de
+ actualizaciones vía GitHub, papelera freedesktop e interfaz en
+ español e inglés.
+ .
+ No requiere FUSE ni dependencias de ejecución adicionales.

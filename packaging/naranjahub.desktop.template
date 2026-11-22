@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=NaranjaHub
+GenericName=Administrador de AppImages
+GenericName[en]=AppImage Manager
+Comment=Organiza, integra y actualiza tus AppImage en GNOME, KDE Plasma, COSMIC y XFCE
+Comment[en]=Organize, integrate and update your AppImages on GNOME, KDE Plasma, COSMIC and XFCE
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Categories=Utility;PackageManager;System;
+StartupNotify=true
