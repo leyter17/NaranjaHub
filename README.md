@@ -2,11 +2,6 @@
 ADMINISTRADOR DE APPIMAGES
 
 ======================================================================
- 
- NARANJAHUB v1.4.1 — ADMINISTRADOR DE APPIMAGES
- Creado por Leyter Vázquez. V
- Licencia: GNU GPL v3 (ver sección 10)
-======================================================================
 
 SI TE GUSTA ESTE PROYECTO POR FAVOR DEJA UNA DONACION EN BITCOIN A ESTA DIRECCION: bc1qac0vp996wqaq8z2gujyzcg7699lcmmtul8e8qtrkqdk4pg48wq8s3nj8hh
 
